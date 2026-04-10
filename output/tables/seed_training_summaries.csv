@@ -1,0 +1,13 @@
+experiment,pipeline,seed,best_epoch,best_val_auroc,calibrated_threshold,checkpoint,seed_model_name
+voxel_clean,voxel,42,4,0.8940290478752017,0.07,/content/vesselmnist3d_project/outputs/checkpoints/voxel_clean_seed42.pt,voxel_clean_seed42
+voxel_robust,voxel,42,11,0.9020979020979021,0.05,/content/vesselmnist3d_project/outputs/checkpoints/voxel_robust_seed42.pt,voxel_robust_seed42
+point_clean_xyzI_512,point,42,8,0.9039806347498655,0.845,/content/vesselmnist3d_project/outputs/checkpoints/point_clean_xyzI_512_seed42.pt,point_clean_xyzI_512_seed42
+point_robust_xyzI_512,point,42,20,0.8590640129101668,0.26999999999999996,/content/vesselmnist3d_project/outputs/checkpoints/point_robust_xyzI_512_seed42.pt,point_robust_xyzI_512_seed42
+voxel_clean,voxel,52,20,0.9193114577729963,0.95,/content/vesselmnist3d_project/outputs/checkpoints/voxel_clean_seed52.pt,voxel_clean_seed52
+voxel_robust,voxel,52,23,0.9744486282947822,0.5499999999999999,/content/vesselmnist3d_project/outputs/checkpoints/voxel_robust_seed52.pt,voxel_robust_seed52
+point_clean_xyzI_512,point,52,17,0.919849381387843,0.35999999999999993,/content/vesselmnist3d_project/outputs/checkpoints/point_clean_xyzI_512_seed52.pt,point_clean_xyzI_512_seed52
+point_robust_xyzI_512,point,52,9,0.8308230231307154,0.49999999999999994,/content/vesselmnist3d_project/outputs/checkpoints/point_robust_xyzI_512_seed52.pt,point_robust_xyzI_512_seed52
+voxel_clean,voxel,62,13,0.92926304464766,0.43499999999999994,/content/vesselmnist3d_project/outputs/checkpoints/voxel_clean_seed62.pt,voxel_clean_seed62
+voxel_robust,voxel,62,24,0.9402904787520173,0.565,/content/vesselmnist3d_project/outputs/checkpoints/voxel_robust_seed62.pt,voxel_robust_seed62
+point_clean_xyzI_512,point,62,6,0.8644432490586338,0.36999999999999994,/content/vesselmnist3d_project/outputs/checkpoints/point_clean_xyzI_512_seed62.pt,point_clean_xyzI_512_seed62
+point_robust_xyzI_512,point,62,7,0.8464228079612697,0.44499999999999995,/content/vesselmnist3d_project/outputs/checkpoints/point_robust_xyzI_512_seed62.pt,point_robust_xyzI_512_seed62

@@ -1,0 +1,8 @@
+experiment,pipeline,seed,best_epoch,best_val_auroc,calibrated_threshold,checkpoint
+voxel_clean,voxel,42,18,0.9088219472834858,0.3499999999999999,/content/vesselmnist3d_project/outputs/checkpoints/voxel_clean.pt
+point_clean_xyzI_512,point,42,17,0.898870360408822,0.27499999999999997,/content/vesselmnist3d_project/outputs/checkpoints/point_clean_xyzI_512.pt
+voxel_robust,voxel,42,25,0.912856374394836,0.8499999999999999,/content/vesselmnist3d_project/outputs/checkpoints/voxel_robust.pt
+point_robust_xyzI_512,point,42,15,0.8526089295320065,0.6399999999999999,/content/vesselmnist3d_project/outputs/checkpoints/point_robust_xyzI_512.pt
+point_ablation_xyz_512,point,42,19,0.8940290478752018,0.38999999999999996,/content/vesselmnist3d_project/outputs/checkpoints/point_ablation_xyz_512.pt
+point_ablation_xyzI_512,point,42,4,0.8752017213555675,0.7999999999999999,/content/vesselmnist3d_project/outputs/checkpoints/point_ablation_xyzI_512.pt
+point_ablation_xyzI_1024,point,42,12,0.898870360408822,0.5499999999999999,/content/vesselmnist3d_project/outputs/checkpoints/point_ablation_xyzI_1024.pt
